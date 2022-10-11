@@ -30,6 +30,9 @@ It can be modified to run everything at once and more efficiently, if one wishes
 The data needs to be extracted and saved in the following directory tree:
 
 Main Folder: Prisma/Run1/
+
+Subfolders
+
 1. 2DGRE_EPI/FS/FA65 + 2DGRE_EPI/FS/FA130: place GRE EPI
 2. 3DVIBE_VFA_Dixon/FA2 + 3DVIBE_VFA_Dixon/FA2R + 3DVIBE_VFA_Dixon/FA15 +3DVIBE_VFA_Dixon/FA15R: place water only images, PrescanOn is the second set (first set is PrescanOff). Use Prescan On for T1 Mapping.
 3. Siemens2DMultiSlice_B1Map/
