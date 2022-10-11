@@ -1,7 +1,7 @@
 # 3D-T1-Mapping-Siemens
 
 ## 3D T1 MAPPING using VFA SPGR 
-###SIEMENS Data acquired on a 3T Prisma scanner
+**SIEMENS Data acquired on a 3T Prisma scanner**
 
 Scripts to compute whole-liver T1 maps using the widely available SPGR sequence with corrections for B1+ inhomogeneities.
 B1+ map generated from a GRE EPI sequence with fat saturation using a dual-angle approach and modelling:
@@ -21,7 +21,7 @@ Author: Gabriela Belsley, University of Oxford, gabriela.belsley@stx.ox.ac.uk OR
 Please contact me, if you have any questions. Happy T1 Mapping!
 ————————————————————————————————————————————
 
-###General Instructions:
+**General Instructions:**
 
 Run MainScript.m: it has several sections to run. 
 
