@@ -27,7 +27,7 @@ Main Folder: Prisma/Run1/
 1. 2DGRE_EPI/FS/FA65 + 2DGRE_EPI/FS/FA130: place GRE EPI
 2. 3DVIBE_VFA_Dixon/FA2 + 3DVIBE_VFA_Dixon/FA2R + 3DVIBE_VFA_Dixon/FA15 +3DVIBE_VFA_Dixon/FA15R: place water only images, PrescanOn is the second set (first set is PrescanOff). Use Prescan On for T1 Mapping.
 3a. Siemens2DMultiSlice_B1Map/FA80: place Siemens B1+ map images computed directly at the scanner
-3.b Siemens2DMultiSlice_B1Map/Magnitude/FA80: place Siemens Pre-RF turbo FLASH magnitude only images 
+3b. Siemens2DMultiSlice_B1Map/Magnitude/FA80: place Siemens Pre-RF turbo FLASH magnitude only images 
 4. B0_2DGREMultiSlice/UnwrapPrelude_B0Fugue/
 	a. Phase/TE1/FA15 + Phase/TE2/FA15 
 	b. Magnitude/TE1/FA15 + Magnitude/TE2/FA15 
