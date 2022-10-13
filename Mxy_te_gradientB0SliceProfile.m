@@ -19,8 +19,8 @@ function [ratioInten_te] = Mxy_te_gradientB0SliceProfile(B1Bias,nominalAngle,kFa
 % Copyright, Gabriela Belsley (gabriela.belsley@stx.ox.ac.uk), 2021
 
 
+%IMP: add path here to Prof. Hargreaves bloch simulator
 %path to Bloch simulation: Wind_blochMxyRFInterp_gradientB0SliceProfile
-addpath('/Users/gabrielabelsley/OneDrive - Perspectum Ltd/DPhil_SecondProject/MRIPhysics/UCLACourses/AdvancedMRI/Lesson2_RFPulseDesign/matlab_demo/')
 
 
 
