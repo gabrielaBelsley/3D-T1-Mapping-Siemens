@@ -14,7 +14,7 @@ An alternative B1+ mapping method-pre-conditioned RF pulse with a Turbo FLASH re
 
 T1 Maps corrected for incomplete spoiling and with spatial saturation turned off.
 
-This code is distributed under the MIT license. If you use it, please cite the code: TO DO: include zenodo doi when I make the code public
+This code is distributed under the MIT license. If you use it, please cite the code: 
 
 Author: Gabriela Belsley, University of Oxford, gabriela.belsley@stx.ox.ac.uk OR gabi.belsley@gmail.com
 
